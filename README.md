@@ -8,13 +8,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Python Developer <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am a Python developer with more than two years of experience.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I work with different Python frameworks and libraries, such as: Tkinter, Pygame, HTTPX, Requests, Kivy and more.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I am fond of football and often play in my free time. I study English and strive to improve my skills
 
 ---
 
