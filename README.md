@@ -25,7 +25,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="30px"/>
+</div>
 
 <!-- **rakuzan2weak/rakuzan2weak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
