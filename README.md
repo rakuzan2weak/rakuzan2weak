@@ -26,6 +26,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 <div align="center">
+  <h1>
+    hello python!
+  </h1>
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="90px"/>
 </div>
 
