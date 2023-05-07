@@ -26,9 +26,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 <div align="center">
-
-    hello python!
+  <h1>
+    hi python!
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="90px"/>
+  </h1>
 </div>
 
 <!-- **rakuzan2weak/rakuzan2weak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
