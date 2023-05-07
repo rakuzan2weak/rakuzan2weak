@@ -27,7 +27,7 @@
 </div>
 <div align="center">
   <h1>
-    hi python!
+    end ;)
   </h1>
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="90px"/>
 </div>
