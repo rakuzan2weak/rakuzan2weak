@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Python Developer <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> from Russia.
+I am a Python Developer <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="10"> from Russia.
 
 - :telescope: I am a Python developer with more than two years of experience.
 
