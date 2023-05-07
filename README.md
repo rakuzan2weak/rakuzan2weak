@@ -28,8 +28,8 @@
 <div align="center">
   <h1>
     hi python!
-  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="90px"/>
   </h1>
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="90px"/>
 </div>
 
 <!-- **rakuzan2weak/rakuzan2weak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
